@@ -4,7 +4,7 @@ Congrats! You have a working install of Git!
 
 What we learned!
 
-- git clone -
+- git clone - DONE!
 - git add -
 - git commit -
 - git log -
