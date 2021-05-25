@@ -9,3 +9,4 @@ What we learned!
 - git commit with a message
 - git log - saw all the commits
 - git push
+- git pull - this change was made on the Github UI editor!
